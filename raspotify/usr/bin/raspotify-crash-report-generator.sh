@@ -1,4 +1,4 @@
-#!/usr/bin/bash
+#!/usr/bin/sh
 
 crash_report="/etc/raspotify/crash_report"
 
